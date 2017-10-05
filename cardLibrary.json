@@ -1,0 +1,52 @@
+[
+  {
+    "type": "BasicCard",
+    "front": "Where were the remains of the oldest humans found?",
+    "back": "Africa"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "What was the name of the Architect who layed out Washington D.C.?",
+    "cloze": "Benjamin Banneker"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Who is known to have sung Strange Fruit?",
+    "back": "Billie Holiday"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Who broke the color barrier in Major League Baseball?",
+    "back": "Jackie Robinson"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Who invented the Traffic Signal and the Gas Mask?",
+    "cloze": "Garrett Morgan"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Who is known as the father of modern medicine?",
+    "back": "Imhotep"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "What global population has committed the most genocides in all of history?",
+    "cloze": "European"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Who wrote Giovanni's Room?",
+    "back": "James Baldwin"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "What is the name of the first Black Greek Letter Organization?",
+    "cloze": "Sigma Pi Phi"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Who is known as the father of African American Freemasonry?",
+    "cloze": "Prince Hall"
+  }
+]
